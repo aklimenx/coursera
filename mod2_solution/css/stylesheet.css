@@ -29,7 +29,7 @@ p {
 .chicken_title{
 	  background-color: #e6ff99;
 	  font-size: 125%;
-	  border: 2px solid black;
+	  border: 1px solid black;
 	  width: 30%;
 	  height: 35px;
 	  position: relative;
@@ -41,7 +41,7 @@ p {
 .beef_title{
 	  background-color: #ffbf00;
 	  font-size: 125%;
-	  border: 2px solid black;
+	  border: 1px solid black;
 	  width: 30%;
 	  height: 35px;
 	  position: relative;
@@ -52,7 +52,7 @@ p {
 .sushi_title{
 	  background-color: #e8a17d;
 	  font-size: 125%;
-	  border: 2px solid black;
+	  border: 1px solid black;
 	  width: 30%;
 	  height: 35px;
 	  position: relative;
@@ -60,7 +60,7 @@ p {
 }
 
 .container{
-	border: 3px solid black;
+	border: 1px solid black;
 	background-color: #8585ad;
 	padding-margin: 10px;
 	margin-bottom: 15px;
