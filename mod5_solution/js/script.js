@@ -119,7 +119,7 @@ function buildAndShowHomeHTML (categories) {
       // 
       // var homeHtmlToInsertIntoMainPage = ....
 
-	  console.log("shortname is: " + chosenCategoryShortName);
+	 // console.log("shortname is: " + chosenCategoryShortName);
        
 	 
 	    var homeHtmlToInsertIntoMainPage = 
