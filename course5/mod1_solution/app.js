@@ -6,13 +6,10 @@ angular.module('Mod1App', [])
 
 Mod1AppController.$inject = ['$scope', '$filter'];
 function Mod1AppController($scope, $filter) {
-//  $scope.name = "Yaakov";
-//  $scope.stateOfBeing = "hungry";
+
 
   $scope.checkIfTooMuch = function () {
-    //return "Yaakov likes to eat healthy snacks at night!";
-    console.log($scope.list);
-    //$scope.list = "was clicked";
+
     var message;
 
     if($scope.list === undefined || $scope.list === "")
@@ -41,11 +38,7 @@ function Mod1AppController($scope, $filter) {
 
     $scope.message = message;
   };
-/*
-  $scope.feedYaakov = function () {
-    $scope.stateOfBeing = "fed";
-  };
-*/
+
 }
 
 })();
