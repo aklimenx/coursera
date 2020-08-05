@@ -52,11 +52,11 @@
         var service = this;
 
         // Lists of items to buy
-        var itemsToBuy = [{ name: "cookies", quantity: 10 },
-            { name: "flat bread", quantity: 5 },
-            { name: "chocolate", quantity: 2 },
-            { name: "chocolate cookies", quantity: 20 },
-            { name: "candies", quantity: 30 }
+        var itemsToBuy = [{ name: "Cookies", quantity: 10 },
+            { name: "Sugar Candies", quantity: 2 },
+            { name: "Chocolates", quantity: 8 },
+            { name: "Jelly Fruit Candies", quantity: 20 },
+            { name: "Sodas", quantity: 5 }
         ];
         var itemsAlreadyBought = [];
 
